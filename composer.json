@@ -1,0 +1,18 @@
+{
+    "name": "ndlovu28/bpo_mailer",
+    "description": "This packages sends email communication to contacts from CO3 BPO Web portal",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ndlovu28\\BpoMailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wilson Ndlovu",
+            "email": "ndlovu28@gmail.com"
+        }
+    ],
+    "require": {}
+}
